@@ -1,1 +1,1 @@
-Parser = Npm.require('psd');
+Psd = Npm.require('psd');

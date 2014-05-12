@@ -3,4 +3,4 @@ PSD.js- a psd parser, packed for Meteor.
 
     mrt add psd
 
-The variable "Parser" should be available now (serverside).
+The variable "Psd" should be available now (serverside).
