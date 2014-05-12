@@ -1,6 +1,6 @@
 {
-  "name": "meteor-psd",
-  "description": "PsdJS + png packed for Meteor.",
+  "name": "meteor-psd-png",
+  "description": "PSD.js + PNG.js packed for Meteor.",
   "homepage": "https://",
   "author": "Andrej Fritz",
   "version": "0.0.1",
