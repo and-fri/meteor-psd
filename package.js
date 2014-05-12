@@ -1,10 +1,12 @@
 Package.describe({
-  summary: 'PSD.js- a psd parser, packed for Meteor.'
+  summary: "PSD.js- a psd parser, packed for Meteor."
 });
+
 Npm.depends({
-  'psd':'0.0.4'
+  "psd":"0.0.4"
 });
+
 Package.on_use(function(api) {
-  api.add_files('include-psd.js', ['server']);
-  api.export(['Psd'], 'server');
+  api.export("PSD", 'server');
+  api.add_files("include-psd.js", "server");
 });

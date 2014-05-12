@@ -1,1 +1,1 @@
-Psd = Npm.require('psd');
+PSD = Npm.require('psd');
