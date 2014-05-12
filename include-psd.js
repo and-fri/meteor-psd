@@ -1,1 +1,1 @@
-var Parser = Npm.require('psd.js').Parser;
+Parser = Npm.require('psd');
