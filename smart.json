@@ -3,6 +3,6 @@
   "description": "PSD.js- a psd parser, packed for Meteor.",
   "homepage": "https://github.com/and-fri/meteor-psd",
   "author": "Andrej Fritz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/and-fri/meteor-psd.git"
 }
