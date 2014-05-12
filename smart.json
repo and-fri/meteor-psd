@@ -1,8 +1,8 @@
 {
-  "name": "meteor-psd-png",
-  "description": "PSD.js + PNG.js packed for Meteor.",
-  "homepage": "https://",
+  "name": "psd",
+  "description": "PSD.js- a psd parser, packed for Meteor.",
+  "homepage": "https://github.com/and-fri/meteor-psd",
   "author": "Andrej Fritz",
   "version": "0.0.1",
-  "git": ""
+  "git": "https://github.com/and-fri/meteor-psd.git"
 }
